@@ -1,0 +1,14 @@
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.AssemblyInfoInputs.cache
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.AssemblyInfo.cs
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.csproj.CoreCompileInputs.cache
+/Users/asmrofficialfinder/Desktop/ClassesCode/bin/Debug/net9.0/ClassesCode
+/Users/asmrofficialfinder/Desktop/ClassesCode/bin/Debug/net9.0/ClassesCode.deps.json
+/Users/asmrofficialfinder/Desktop/ClassesCode/bin/Debug/net9.0/ClassesCode.runtimeconfig.json
+/Users/asmrofficialfinder/Desktop/ClassesCode/bin/Debug/net9.0/ClassesCode.dll
+/Users/asmrofficialfinder/Desktop/ClassesCode/bin/Debug/net9.0/ClassesCode.pdb
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.dll
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/refint/ClassesCode.dll
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.pdb
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ClassesCode.genruntimeconfig.cache
+/Users/asmrofficialfinder/Desktop/ClassesCode/obj/Debug/net9.0/ref/ClassesCode.dll
