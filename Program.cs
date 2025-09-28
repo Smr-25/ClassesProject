@@ -44,13 +44,6 @@ while (true) {
             Console.WriteLine("Input Email");
         Email: string email = Console.ReadLine();
 
-            //bool isCorrectEmail = email.Contains("@") || email.Substring(email.IndexOf("@")).Contains(".");
-            //if (!isCorrectEmail)
-            //{
-            //    Console.WriteLine("Incorrect Email");
-            //    goto Email;
-
-            //}
             Console.WriteLine("Input Address");
             string address = Console.ReadLine();
             doctorService.Add(fullName, age, email, address);
