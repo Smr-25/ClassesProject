@@ -69,9 +69,9 @@ namespace ClassesCode
             }
         }
 
-        public double GetAvarageByAge(Doctor[] doctorArray)
+        public int GetAvarageByAge(Doctor[] doctorArray)
         {
-            double result = 0;
+            int result = 0;
             foreach (var doctor in doctorArray)
             {
                 result += doctor.Age;
